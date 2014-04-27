@@ -67,7 +67,7 @@ body {
   line-height: 1.5em; }
 
 a {
-  color: #08F;
+  color:  #B19CD9;
   text-decoration: none; }
 
 a:hover {
@@ -101,77 +101,3 @@ ul, ol {
 
   #home {
     padding: 100px 0 0 40px; } }
-#resume {
-  width: 900px;
-  margin: 5em 0;
-  *zoom: 1;
-  max-width: 68em;
-  margin-left: auto;
-  margin-right: auto;
-  color: #111; }
-  #resume:before, #resume:after {
-    content: " ";
-    display: table; }
-  #resume:after {
-    clear: both; }
-  #resume a {
-    color: #aaaaaa; }
-  #resume .filler {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 14.70196%; }
-    #resume .filler:last-child {
-      margin-right: 0; }
-  #resume span {
-    color: #aaaaaa;
-    font-weight: 200; }
-  #resume section {
-    *zoom: 1;
-    max-width: 68em;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 3em; }
-    #resume section:before, #resume section:after {
-      content: " ";
-      display: table; }
-    #resume section:after {
-      clear: both; }
-    #resume section h1 {
-      float: left;
-      display: block;
-      margin-right: 2.35765%;
-      width: 14.70196%;
-      font-size: 1.2em;
-      margin-top: 2px;
-      color: #aaaaaa; }
-      #resume section h1:last-child {
-        margin-right: 0; }
-    #resume section .content {
-      float: left;
-      display: block;
-      margin-right: 2.35765%;
-      width: 82.94039%;
-      margin-right: 0; }
-      #resume section .content:last-child {
-        margin-right: 0; }
-    #resume section h2 {
-      font-size: 1.2em;
-      margin-bottom: 0.5em; }
-  #resume .contact a, #resume .contact span {
-    margin-right: 40px; }
-  #resume .contact span {
-    font-weight: normal; }
-  #resume .experience .content .date {
-    display: block;
-    float: right;
-    font-size: 0.9em; }
-  #resume .experience .content li:not(:last-child) {
-    margin-bottom: 2.5em; }
-  #resume .skillset .content div {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 31.76157%; }
-    #resume .skillset .content div:last-child {
-      margin-right: 0; }
